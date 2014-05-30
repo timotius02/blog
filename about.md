@@ -8,7 +8,7 @@ title: About
 </blockquote>
 
 
-Hi, I'm Timotius Sitorus, or Tim for short. I love solving problems and programming. I'm currently a student at Stony Brook University (Go Seawolves!). I'm also an aspiring entrepeneur looking to make it big in the Big Apple. I'm most passionate about learning, whether it may be learning for my own sake, or helping others learn more about their interests. I'm currently a Co-Founder of [Ducky](https://theducky.co).
+Hi, I'm Timotius Sitorus, or Tim for short. I love solving problems and programming. I'm currently a student at Stony Brook University (Go Seawolves!). I'm also an aspiring entrepeneur looking to make it big in the Big Apple. I'm most passionate about learning, whether it may be learning for my own sake, or helping others learn more about their interests. I'm currently a Co-Founder of [Ducky](theducky.co).
 
 
 ##Skills
