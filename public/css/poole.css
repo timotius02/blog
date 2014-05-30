@@ -202,6 +202,9 @@ blockquote p:last-child {
 
 img {
   display: block;
+  float: left;
+  padding-right: 2em;
+  padding-top:1em;
   margin: 0 0 1rem;
   border-radius: 5px;
   max-width: 100%;
