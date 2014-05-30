@@ -6,19 +6,22 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Design By Tech
+tagline:          'A Blog'
+description:      'Welcome to my slice of the internet. I write about Design, Techonology, Entrepeneurship and life in general. Follow me <a href="https://twitter.com/timsitorus1" target="_blank">@timsitorus1</a>'
 url:              http://hyde.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Timotius Sitorus'
+  url:            https://twitter.com/timsitorus1
 
 paginate:         5
 
 # Custom vars
 version:          2.0.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:	          https://github.com/timotius02
+
+twitter:		  https://twitter.com/timsitorus1
+
+linkedin:		  https://www.linkedin.com/in/timotius02

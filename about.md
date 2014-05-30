@@ -3,28 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<blockquote>
+  “ First, solve the problem. Then, write the code. ” <br />- John Johnson
+</blockquote>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+Hi, I'm Timotius Sitorus, or Tim for short. I love solving problems and programming. I'm currently a student at Stony Brook University (Go Seawolves!). I'm also an aspiring entrepeneur looking to make it big in the Big Apple. I'm most passionate about learning, whether it may be learning for my own sake, or helping others learn more about their interests. I'm currently a Co-Founder of [Ducky](https://theducky.co).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+##Skills
 
-## Setup
+<table>
+	<tr>
+		<td></td>
+		<td>Proficient</td>
+		<td>Learning</td>
+	</tr>
+	<tr>
+		<td>Programming</td>
+		<td>HTML, CSS, Javascript, Jquery <br/>
+			Java, C <br/>
+			Node.js, Express, Socket.io</td>
+		<td>C++ <br/>
+			Ruby, Ruby on Rails<br/>
+			Sails.js</td>
+	</tr>
+	<tr>
+		<td>Design</td>
+		<td>Balsamiq Mockup<br/>
+			Photoshop</td>
+		<td>Fireworks, Illustrator</td>
+	</tr>
+	<tr>
+		<td>Miscellaneous</td>
+		<td>Organization<br/>
+			Public Speaking<br/>
+			Guitar</td>
+		<td>Teamwork, Leadership<br/>
+			Business, Marketing</td>
+	</tr>
+</table>
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
