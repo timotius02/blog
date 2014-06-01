@@ -251,4 +251,7 @@ a.sidebar-nav-item:focus {
 
 .profpic{
   max-width: 50%;
+  float: left;
+  padding-right: 5%;
+  padding-top:5%;
 }
